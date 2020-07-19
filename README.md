@@ -1,2 +1,3 @@
 # Twillio-Notification
-Used to develop call and sms feature using Twillo
+python scripts to develop call and sms feature using Twillo API.
+
